@@ -60,6 +60,9 @@ Password hashing using ASP.NET Core Identity
 JWT token-based authentication
 Input validation on client and server
 CORS configuration and HTTPS support
-<img width="1918" height="861" alt="Screenshot 2025-12-24 131548" src="https://github.com/user-attachments/assets/4ea304f7-7578-4fc5-a456-06311c8a2001" />
+
 
 Frontend can be deployed as a static build using npm run build#
+<img width="1810" height="841" alt="Screenshot 2025-12-24 132317" src="https://github.com/user-attachments/assets/2<img width="1918" height="895" alt="Screenshot 2025-12-24 132344" src="https://github.com/user-attachments/assets/3859a1a6-0b31-49fb-804a-4b92c0296c3c" />
+69b00c5-9b8f-4548-b621-fd07e4acae1d" />
+<img width="1882" height="895" alt="Screenshot 2025-12-24 132326" src="https://github.com/user-attachments/assets/45b9e9c9-d0eb-4ae8-8db2-95c6ffd4b05b" />

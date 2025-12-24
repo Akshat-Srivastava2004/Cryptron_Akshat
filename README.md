@@ -62,7 +62,8 @@ Input validation on client and server
 CORS configuration and HTTPS support
 
 
-Frontend can be deployed as a static build using npm run build#
-<img width="1810" height="841" alt="Screenshot 2025-12-24 132317" src="https://github.com/user-attachments/assets/2<img width="1918" height="895" alt="Screenshot 2025-12-24 132344" src="https://github.com/user-attachments/assets/3859a1a6-0b31-49fb-804a-4b92c0296c3c" />
-69b00c5-9b8f-4548-b621-fd07e4acae1d" />
-<img width="1882" height="895" alt="Screenshot 2025-12-24 132326" src="https://github.com/user-attachments/assets/45b9e9c9-d0eb-4ae8-8db2-95c6ffd4b05b" />
+Frontend can be deployed as a static build using npm run build
+<img width="1810" height="841" alt="Screenshot 2025-12-24 132317" src="https://github.com/user-attachments/assets/7db144cb-835e-4cc7-bce4-7af149296692" />
+
+
+<img width="1882" height="895" alt="Screenshot 2025-12-24 132326" src="https://github.com/user-attachments/assets/6e25451a-9d5d-4f90-9d76-47c81624cbc7" />
